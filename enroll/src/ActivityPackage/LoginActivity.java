@@ -51,7 +51,7 @@ public class LoginActivity extends JFrame implements ActionListener {
 		panel.add(buttonListMambers);
 		
 		buttonSignup = new JButton("Sign up");
-		buttonSignup.setBounds(Theme.GUI_WIDTH-140, 80, Theme.BUTTON_PRIMARY_WIDTH,30);
+		buttonSignup.setBounds(230, 380, 150, 30);
 		buttonSignup.setFont(Theme.FONT_BUTTON);
 		buttonSignup.setBackground(Theme.BACKGROUND_BUTTON_PRIMARY);
 		buttonSignup.setForeground(Theme.COLOR_BUTTON_PRIMARY);
