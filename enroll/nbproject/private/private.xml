@@ -4,11 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/enroll/Enroll.java</file>
-            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/activity/StaffActivity.java</file>
-            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/attr/Theme.java</file>
-            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/activity/LoginActivity.java</file>
-            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/activity/SignupActivity.java</file>
-            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/activity/AddCourseActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/SignupActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/ManageCourse.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/ManageStudent.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/CommonClass/Database.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/LoginActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/CommonClass/Staff.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/MyCourseActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/CommonClass/User.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/StudentActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/CommonClass/Theme.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/StaffActivity.java</file>
+            <file>file:/C:/Users/etbaba/Documents/NetBeansProjects/enroll/src/ActivityPackage/AddCourseActivity.java</file>
         </group>
     </open-files>
 </project-private>
